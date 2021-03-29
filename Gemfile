@@ -8,7 +8,7 @@ gem 'rails', '~> 6.1.1'
 gem 'redis'
 gem 'faker'
 gem 'rest-client'
-
+gem 'mimemagic', '~> 0.4.3'
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'sassc-rails'
