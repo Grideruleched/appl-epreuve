@@ -23,3 +23,5 @@ class PlantsController < ApplicationController
     params.require(:plant).permit(:name, :image_url)
   end
 end
+
+#test
